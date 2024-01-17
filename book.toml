@@ -1,0 +1,6 @@
+[book]
+authors = ["a锦龙"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rust-notebook"
